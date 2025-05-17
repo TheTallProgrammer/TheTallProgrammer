@@ -1,5 +1,4 @@
-![Logan Falkenberg banner](https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/banner.gif)
-
+<img src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/banner.gif" alt="Logan Falkenberg banner" style="width: 100%; max-width: 100vw; display: block;" />
 
 <h1 align="center">Hey there, I'm Logan Falkenberg 👋</h1>
 
