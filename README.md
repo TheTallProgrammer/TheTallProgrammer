@@ -41,8 +41,8 @@
 <td width="50%" valign="top"> <!-- Added valign="top" here for consistency -->
 <h3 align="center">Stock Contender (AI Stock Analysis)</h3>
 <div align="center">
-  <a href="YOUR_PROJECT_REPO_LINK_HERE" target="_blank"> <!-- Replace with actual link -->
-    <img src="YOUR_PROJECT_IMAGE_OR_GIF_HERE" width="200" alt="Stock Contender Preview"/> <!-- Optional: Add a preview image/gif -->
+  <a href="[Stock Contender](https://github.com/TheTallProgrammer/Stock-Contender-App)" target="_blank"> <!-- Replace with actual link -->
+    <img src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/stock-contender.png" width="200" alt="Stock Contender Preview"/> <!-- Optional: Add a preview image/gif -->
   </a>
   <p>
     Engineered an application to analyze market trends and financial data for stock predictions using OpenAI’s GPT API and Stock Screener API data. Delivers automated daily stock picks via a user-friendly GUI.
@@ -58,8 +58,8 @@
 <td width="50%" valign="top"> <!-- Added valign="top" here for consistency -->
 <h3 align="center">Falkenberg's Password Manager</h3>
 <div align="center">
-  <a href="YOUR_PROJECT_REPO_LINK_HERE" target="_blank"> <!-- Replace with actual link -->
-    <img src="YOUR_PROJECT_IMAGE_OR_GIF_HERE" width="200" alt="Password Manager Preview"/> <!-- Optional: Add a preview image/gif -->
+  <a href="[Falkenberg's Password Manager](https://github.com/TheTallProgrammer/Password-Manager)" target="_blank"> <!-- Replace with actual link -->
+    <img src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/password.png" width="200" alt="Password Manager Preview"/> <!-- Optional: Add a preview image/gif -->
   </a>
   <p>
     Developed a secure, lightweight, offline, and entirely local password management solution. Features XOR-based encryption, SHA256 hashing, customizable themes, and a user-friendly interface.
