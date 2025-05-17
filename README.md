@@ -1,8 +1,5 @@
-<div align="center">
-  <a href="https://loganfalkenberg.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/loganFalkenberg/loganFalkenberg/main/banner.gif" alt="Logan Falkenberg - Software Engineer & AI Enthusiast" width="800"/>
-  </a>
-</div>
+![Logan Falkenberg banner](https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/banner.gif)
+
 
 <h1 align="center">Hey there, I'm Logan Falkenberg 👋</h1>
 
