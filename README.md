@@ -115,21 +115,62 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=TheTallProgrammer&theme=transparent&bg_color=0A0F0A&title_color=50FA7B&text_color=F8F8F2&icon_color=50FA7B&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&disable_animations=false&cache_seconds=86400&border_radius=10" 
+      alt="TheTallProgrammer's GitHub Stats: Contributions, stars, commits, PRs, issues, and rank."
+      height="195px" 
+    />
+  </p>
+  
   <table>
-    <tr valign="top"> <!-- Use valign="top" for better alignment if images have slightly different heights -->
-      <td>
-        <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=TheTallProgrammer&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github&cache_seconds=86400" alt="Logan's GitHub Stats: Overall contributions, stars, commits, PRs, issues, and rank."/>
-      </td>
+    <tr valign="top">
       <td>
         <!-- Top Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTallProgrammer&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&langs_count=8&cache_seconds=86400" alt="Logan's Top Languages: A compact view of most used languages."/>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheTallProgrammer&theme=transparent&bg_color=0A0F0A&title_color=50FA7B&text_color=F8F8F2&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&cache_seconds=86400&border_radius=10&hide_progress=false" 
+          alt="TheTallProgrammer's Top Languages: A compact view of most used languages."
+        />
+      </td>
+      <td>
+        <!-- GitHub Streak Card -->
+        <img 
+          src="https://nirzak-streak-stats.vercel.app/?user=TheTallProgrammer&theme=dark&background=0A0F0A&stroke=50FA7B&ring=50FA7B&fire=FFB86C&currStreakNum=F8F8F2&currStreakLabel=50FA7B&sideNums=F8F8F2&sideLabels=50FA7B&dates=AAAAAA&hide_border=true&border_radius=10&date_format=M%20j%5B%2CG%20Y%5D&cache_seconds=86400" 
+          alt="TheTallProgrammer's GitHub Streak: Current and longest contribution streaks."
+        />
       </td>
     </tr>
   </table>
-  <br/> <!-- Add a line break for spacing -->
-  <!-- GitHub Streak Card -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TheTallProgrammer&theme=vision-friendly-dark&hide_border=true&cache_seconds=86400" alt="Logan's GitHub Streak: Current and longest contribution streaks."/>
+  <br/>
+
+  <!-- GitHub Profile Trophy -->
+  <p>
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=TheTallProgrammer&theme=monokai&no_frame=true&no_bg=true&margin_w=15&margin_h=15&column=-1&row=1" 
+      alt="TheTallProgrammer's GitHub Trophies"
+    />
+  </p>
+  <br/>
+
+  <!-- GitHub Activity Graph -->
+  <p>
+    <img 
+      src="https://github-readme-activity-graph.vercel.app/graph?username=TheTallProgrammer&bg_color=0A0F0A&color=50FA7B&line=6272A4&point=FFB86C&area=true&hide_border=true&area_color=50FA7B20" 
+      alt="TheTallProgrammer's GitHub Activity Graph"
+    />
+  </p>
+  <br/>
+
+  <!-- Optional: Snake Game Contribution Graph (Requires GitHub Action Setup) -->
+  <!-- 
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/output/github-contribution-grid-snake.svg">
+    </picture>
+  </p>
+  -->
+  
 </div>
 
----
