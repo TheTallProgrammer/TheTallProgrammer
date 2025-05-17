@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://loganfalkenberg.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/banner.gif" alt="Logan Falkenberg - Software Engineer & AI Enthusiast" width="800"/>
+    <img src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/banner-main.gif" alt="Logan Falkenberg - Software Engineer & AI Enthusiast" width="800"/>
   </a>
 </div>
 
