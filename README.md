@@ -152,25 +152,8 @@
   </p>
   <br/>
 
-  <!-- GitHub Activity Graph -->
-  <p>
-    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=TheTallProgrammer&bg_color=0A0F0A&color=50FA7B&line=6272A4&point=FFB86C&area=true&hide_border=true&area_color=50FA7B20" 
-      alt="TheTallProgrammer's GitHub Activity Graph"
-    />
-  </p>
-  <br/>
+  
 
-  <!-- Optional: Snake Game Contribution Graph (Requires GitHub Action Setup) -->
-  <!-- 
-  <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/output/github-contribution-grid-snake.svg">
-    </picture>
-  </p>
-  -->
   
 </div>
 
