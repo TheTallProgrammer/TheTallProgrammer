@@ -33,6 +33,19 @@
 </p>
 
 ---
+## 🧩 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"/>
+  <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat"/>
+  <img src="https://img.shields.io/badge/Texas%20State-Maroon?style=for-the-badge&logo=academia&logoColor=white" alt="Texas State"/>
+  
+</p>
+
+---
 
 ## ✨ My Featured Projects
 
