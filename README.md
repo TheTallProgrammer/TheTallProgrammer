@@ -71,7 +71,7 @@
     <h3 align="center">FalkGen - Secure Web Password Generator</h3>
     <div align="center">
      <a href="https://www.falkgen.com" target="_blank">
-      <img src="nimation.gif" alt="FalkGen Website Animation" width="400" />
+      <img src="Animation.gif" alt="FalkGen Website Animation" width="400" />
     </a>
       <p>A sleek and secure client-side password generator built with modern web technologies. It generates strong, customizable passwords directly in your browser, ensuring no data is ever sent to a server. Hosted on Vercel.</p>
       <p>
