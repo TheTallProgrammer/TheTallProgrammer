@@ -9,6 +9,9 @@
   <a href="https://loganfalkenberg.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-LoganFalkenberg.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
+    <a href="https://www.falkgen.com" target="_blank">
+    <img src="https://img.shields.io/badge/FalkGen-Password%20Generator-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="FalkGen"/>
+  </a>
   <a href="https://www.linkedin.com/in/logan-falkenberg/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
