@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/mastermin.gif" alt="Mastermind pixel art banner" style="width: 100%; max-width: 100vw; display: block;" />
+  <img src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/mastermind.gif" alt="Mastermind pixel art banner" style="width: 100%; max-width: 100vw; display: block;" />
 </p>
 <p align="center">
   <i>Pixel art by <a href="https://www.deviantart.com/pixeljeff/art/Mastermind-847156722">PixelJeff on DeviantArt</a></i>
