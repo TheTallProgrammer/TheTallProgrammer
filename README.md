@@ -1,4 +1,9 @@
-<img src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/banner.gif" alt="Logan Falkenberg banner" style="width: 100%; max-width: 100vw; display: block;" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheTallProgrammer/TheTallProgrammer/main/mastermind.gif" alt="Mastermind pixel art banner" style="width: 100%; max-width: 100vw; display: block;" />
+</p>
+<p align="center">
+  <i>Pixel art by <a href="https://www.deviantart.com/pixeljeff/art/Mastermind-847156722">PixelJeff on DeviantArt</a></i>
+</p>
 
 <h3 align="center">Hi there, I'm Logan Falkenberg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
