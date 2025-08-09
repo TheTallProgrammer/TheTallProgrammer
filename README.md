@@ -145,13 +145,7 @@
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=TheTallProgrammer&theme=transparent&bg_color=0A0F0A&title_color=50FA7B&text_color=F8F8F2&icon_color=50FA7B&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&disable_animations=false&cache_seconds=86400&border_radius=10" 
-      alt="Logan's GitHub Stats: Contributions, stars, commits, PRs, issues, and rank."
-      height="195px" 
-    />
-  </p>
+  
   
   <table>
     <tr valign="top">
