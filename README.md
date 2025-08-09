@@ -8,7 +8,7 @@
 <h3 align="center">Hi there, I'm Logan Falkenberg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
 <p align="center">
-  A passionate Software Engineer crafting intelligent and user-centric solutions. I hold a B.S. in Computer Science with a Minor in Mathematics from <strong>Texas State University</strong> and thrive on exploring the ever-evolving landscape of technology, especially in the realm of AI and Machine Learning.
+  A passionate Software Engineer crafting intelligent and user-centric solutions. I hold a B.S. in Computer Science with a Minor in Mathematics from <strong>Texas State University</strong> and thrive on exploring the ever-evolving landscape of technology.
 </p>
 
 <p align="center">
