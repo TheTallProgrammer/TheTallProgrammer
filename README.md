@@ -28,14 +28,6 @@
 
 ---
 
-### 🔭 What I'm Focused On
-
--   🌱 **Enhancing Core Projects:** Currently refining `Stock Contender (AI)` and `Falkenberg's Password Manager`.
--   🤖 **Exploring AI/ML:** Diving deeper into neural networks, NLP, and practical machine learning applications.
--   👯 **Collaboration:** Eager to contribute to open-source projects involving AI, data analysis, or full-stack web development.
-
----
-
 ### ✨ My Featured Projects
 
 <table>
